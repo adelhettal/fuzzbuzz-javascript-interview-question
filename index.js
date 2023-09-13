@@ -9,3 +9,4 @@ function fizzBuzz(input) {
 
 const output = fizzBuzz ();
 console. log (output);
+console.log(hey smartass);
